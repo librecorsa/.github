@@ -19,7 +19,7 @@
 <p>
   <a href="https://librecorsa.org/play"><img alt="Players on track right now" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flibrecorsa.org%2Fapi%2Fstats&query=%24.live&label=on%20track%20now&color=CCFF00&labelColor=08090D&cacheSeconds=300"></a>
   <a href="https://librecorsa.org/"><img alt="Drivers who have set a lap online" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flibrecorsa.org%2Fapi%2Fstats&query=%24.drivers&label=online%20drivers&color=00E5FF&labelColor=08090D&cacheSeconds=3600"></a>
-  <a href="https://github.com/librecorsa/librecorsa/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/librecorsa/librecorsa?label=stars&color=F5F7FA&labelColor=08090D&logo=github&logoColor=white"></a>
+  <a href="https://github.com/librecorsa/librecorsa/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/librecorsa/librecorsa?style=flat&label=stars&color=F5F7FA&labelColor=08090D&logo=github&logoColor=white"></a>
   <a href="https://github.com/librecorsa/librecorsa/blob/main/LICENSE"><img alt="Code under AGPL-3.0" src="https://img.shields.io/badge/code-AGPL--3.0-FF2A3C?labelColor=08090D"></a>
 </p>
 
@@ -31,10 +31,10 @@
 
 <table>
   <tr>
-    <td align="center" width="25%"><h1>13</h1><b>cars</b><br><sub>a 2026 open-wheeler, GT3s, prototypes and classics</sub></td>
-    <td align="center" width="25%"><h1>20</h1><b>circuits</b><br><sub>35 layouts, plus two hill climbs</sub></td>
-    <td align="center" width="25%"><h1>500 Hz</h1><b>physics</b><br><sub>tyres that heat up, wear and aquaplane</sub></td>
-    <td align="center" width="25%"><h1>12</h1><b>languages</b><br><sub>Arabic reads right to left</sub></td>
+    <td align="center" valign="top" width="25%"><h1>13</h1><b>cars</b><br><sub>a 2026 open-wheeler, GT3s, prototypes and classics</sub></td>
+    <td align="center" valign="top" width="25%"><h1>20</h1><b>circuits</b><br><sub>35 layouts, plus two hill climbs</sub></td>
+    <td align="center" valign="top" width="25%"><h1>500 Hz</h1><b>physics</b><br><sub>tyres that heat up, wear and aquaplane</sub></td>
+    <td align="center" valign="top" width="25%"><h1>12</h1><b>languages</b><br><sub>Arabic reads right to left</sub></td>
   </tr>
 </table>
 
